@@ -15,7 +15,7 @@
 * 🌱 I’m currently learning **Figma, Advanced UI/UX, & Frontend Development**
 * 👯 I’m looking to collaborate on **Open Source UI/UX & QA Projects**
 * 💬 Ask me about **UI/UX Wireframes, React, HTML/CSS, and API/Functional Testing**
-* 📫 How to reach me: **charindidesilva@gmail.com**
+* 📫 How to reach me: **heshanharischandra439@gmail.com**
 * ⚡ Fun fact: **I love turning coffee into pixel-perfect designs and bug-free code! ☕**
 
 ### 🛠️ Tech Stack & Tools
