@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/heshanharischandra/heshanharischandra/main/header-image.gif" alt="Header Image" width="80%"/>
 </div>
 
-<h1 align="center">Hi there 👋, I'm Charindi De Silva</h1>
+<h1 align="center">Hi there 👋, I'm Heshan harischandra</h1>
 
 <h3 align="center">   UI/UX Designer | IT Undergraduate @ SLIIT</h3>
 
